@@ -81,7 +81,6 @@ nav > a {
     text-decoration: none;
     color: white;
     font-weight: bold;
-    margin-right: 30px;
     font-size: 15px;
     padding: 10px;
     border-radius: 5px;
@@ -118,8 +117,6 @@ h2 {
 }    
 
 p {
-    text-align: center;
-    justify-content: center;
     text-indent: 50px;
 }
 
@@ -160,7 +157,7 @@ footer {
     justify-content: center;
     height: 20px;
     margin-top: 10px;
-    font-size: 13px;
+    font-size: 80%;
 }
 
  a {
